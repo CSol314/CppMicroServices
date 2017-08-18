@@ -5,7 +5,7 @@ Tutorial
 
 This tutorial creates successively more complex bundles to illustrate
 most of the features and functionality offered by the C++ Micro Services library.
-It is heavily base on the Apache Felix OSGi Tutorial.
+It is heavily based on the Apache Felix OSGi Tutorial.
 
 .. toctree::
 
